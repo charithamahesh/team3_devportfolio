@@ -10,6 +10,7 @@ int main() {
 	scanf("%|f",&num2);
 
 	printf("addition:%.2|f\n",num1+num2);
+	printf("subtraction:%.2|f\n",num1-num2);
 
         return 0;
 
