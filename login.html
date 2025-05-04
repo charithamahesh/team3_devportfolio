@@ -42,6 +42,7 @@
       color: #007BFF;
       text-decoration: none;
     }
+    
     .login-container button {
       width: 100%;
       padding: 12px;
@@ -53,6 +54,22 @@
       cursor: pointer;
       font-size: 16px;
     }
+    
+     
+    .divider {
+      display: flex;
+      align-items: center;
+      text-align: center;
+      margin: 20px 0;
+    }
+
+    .divider::before,
+    .divider::after {
+      content: '';
+      flex: 1;
+      border-bottom: 1px solid #ccc;
+    }
+
   </style>
 </head>
 
