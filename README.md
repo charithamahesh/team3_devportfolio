@@ -7,7 +7,8 @@ Dev Portfolio is a web-based personal portfolio builder created as part of the S
 ✅ Team collaboration with branching and PRs
 
 This project helped our team gain real-world experience in using Git version control, branching strategies, and collaborative workflows in a real development setup.
-
+//Login Content of DevPortfolio added
+DevPortfolio login using mail id
 
 👨‍💻 My Contribution: Login Page Developer
 As a part of a 4-member team, I was responsible for:
